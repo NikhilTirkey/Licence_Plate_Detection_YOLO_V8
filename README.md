@@ -1,5 +1,4 @@
 # Licence_Plate_Detection_YOLO_V8
-# License Plate Detection using YOLOv8
 
 This project detects vehicle license plates using YOLOv8 trained on a custom annotated dataset in Google Colab.
 
